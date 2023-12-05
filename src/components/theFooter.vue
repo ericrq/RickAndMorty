@@ -8,7 +8,7 @@ import btnFooter from './btnFooter.vue';
         <btnFooter
             class="animate__fadeInLeft"
             btnText="GitHub Do Projeto"
-            btnLink="https://github.com/ericrq" />
+            btnLink="https://github.com/ericrq/RickAndMorty" />
 
         <btnFooter
             class="animate__fadeInRight"

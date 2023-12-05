@@ -2,7 +2,7 @@
 
 # Rick And Morty
 
-Um Projeto Desenvolvido Com o Objetivo De Praticar o Uso Do Framework [Vue.js](https://vuejs.org/) Consumindo a API Publica Do [Rick And Norty](https://rickandmortyapi.com/) Usando [Axios](https://axios-http.com/) Para Requisições Da API e [Tailwindcss](https://tailwindcss.com/) Para Estilização.
+Um Projeto Desenvolvido Com o Objetivo De Praticar o Uso Do Framework [Vue.js](https://vuejs.org/) Consumindo a API Publica Do [Rick And Morty](https://rickandmortyapi.com/) Usando [Axios](https://axios-http.com/) Para Requisições Da API e [Tailwindcss](https://tailwindcss.com/) Para Estilização.
 
 [![Projeto Online](img/../src/assets/img/btnOnline.svg)](https://ericrq.github.io/RickAndMorty/)
 

@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'get_schwifty';
-    src: url('/src/assets/fonts/get_schwifty.ttf') format('truetype');
+    src: url('/src/assets/fonts/get_schwifty.ttf') format('opentype');
 }
 
 @font-face {
